@@ -11,9 +11,7 @@ $ curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
 # Make Repo executable
 $ chmod a+x ~/bin/repo
 
-
 # Create a directory for the source files
-# This can be located anywhere (as long as the fs is case-sensitive)
 $ mkdir android
 $ cd android
 
