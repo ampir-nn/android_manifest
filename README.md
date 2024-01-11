@@ -17,4 +17,4 @@ $ mkdir android
 $ cd android
 
 # Install Repo in the created directory
-$ repo init -u git://github.com/khadas/android_manifest.git -b  khadas-vims-pie --git-lfs
+$ repo init -u git://github.com/ampir-nn/android_manifest.git -b  khadas-vims-pie --git-lfs
