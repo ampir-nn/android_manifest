@@ -13,6 +13,7 @@ $ chmod a+x ~/bin/repo
 
 # Create a directory for the source files
 $ mkdir android
+
 $ cd android
 
 # Install Repo in the created directory
